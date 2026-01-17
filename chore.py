@@ -9,7 +9,7 @@ class Chore:
         self.completed_on = None
 
     def __repr__(self):
-        return f"Chore(name={self.name}, frequency={self.frequency}, completed={self.completed})"
+        return f"Chore(name={self.name}, frequency={self.chore_schedule.frequency}, completed={self.completed})"
         
     def mark_complete(self):
         self.completed = True
