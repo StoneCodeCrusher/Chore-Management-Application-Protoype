@@ -11,9 +11,9 @@ Mark Complete / Not Complete: Toggle the completion status of chores with a butt
 
 Timestamps:
 
-Created On: Automatically records when a chore is added.
+  Created On: Automatically records when a chore is added.
 
-Completed On: Records when a chore is marked complete.
+  Completed On: Records when a chore is marked complete.
 
 Filter Chores: View all chores or filter by frequency.
 
