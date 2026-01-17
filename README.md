@@ -1,7 +1,7 @@
 Chore Management Application
 Overview
 
-The Chore Management Application is a Python-based GUI tool designed to help households track and manage daily, weekly, monthly, and yearly chores. Users can easily add chores, mark them as complete, filter by frequency, and track completion timestamps. The app aims to streamline home maintenance and improve organization.
+The Chore Management Application is a Python tool designed to help households track and manage chores. Users can easily add chores, mark them as complete, filter by frequency, and track completion date. The app aims to assist with household management.
 
 Features
 
